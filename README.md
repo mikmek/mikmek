@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikmek
-- 👀 I’m interested in (micro-) services, datastructures, mountainbiking and so much more... 
-- 🌱 I’m currently learning scala/play and react
+- 👀 I’m interested in service architectures, eventsourcing, mountainbiking and so much more... 
+- 🌱 I’m currently writing services in scala / akka and svelteKit 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me frank.beer@bizgrid.de
+- 📫 How to reach me: frank.beer@bizgrid.de
 
